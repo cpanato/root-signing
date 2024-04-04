@@ -8,14 +8,14 @@ require (
 	github.com/peterbourgon/ff/v3 v3.4.0
 	github.com/pkg/errors v0.9.1
 	github.com/sigstore/cosign/v2 v2.2.2
-	github.com/sigstore/sigstore v1.7.6
+	github.com/sigstore/sigstore v1.8.3
 	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.7.6
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.7.6
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.0
 	github.com/tent/canonical-json-go v0.0.0-20130607151641-96e4ba3a7613
 	github.com/theupdateframework/go-tuf v0.7.0
-	golang.org/x/term v0.15.0
+	golang.org/x/term v0.17.0
 )
 
 require (
@@ -32,7 +32,7 @@ require (
 	github.com/digitorus/pkcs7 v0.0.0-20230818184609-3a137a874352 // indirect
 	github.com/digitorus/timestamp v0.0.0-20230902153158-687734543647 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/google/gnostic-models v0.6.9-0.20230804172637-c7be7c783f49 // indirect
 	github.com/google/go-github/v55 v55.0.0 // indirect
@@ -45,7 +45,7 @@ require (
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
-	github.com/secure-systems-lab/go-securesystemslib v0.7.0 // indirect
+	github.com/secure-systems-lab/go-securesystemslib v0.8.0 // indirect
 	github.com/sigstore/rekor v1.3.4 // indirect
 	github.com/sigstore/timestamp-authority v1.2.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
@@ -53,7 +53,7 @@ require (
 	golang.org/x/mod v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231106174013-bbf56f31fb17 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231120223509-83a465c0220f // indirect
-	gopkg.in/go-jose/go-jose.v2 v2.6.1 // indirect
+	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gotest.tools/v3 v3.1.0 // indirect
 )
@@ -94,7 +94,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/certificate-transparency-go v1.1.7 // indirect
-	github.com/google/go-containerregistry v0.17.0 // indirect
+	github.com/google/go-containerregistry v0.19.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
@@ -142,19 +142,19 @@ require (
 	go.opentelemetry.io/otel/trace v1.21.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.26.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/crypto v0.20.0 // indirect
 	golang.org/x/exp v0.0.0-20231108232855-2478ac86f678
-	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/oauth2 v0.15.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/oauth2 v0.17.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/api v0.153.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20231106174013-bbf56f31fb17 // indirect
 	google.golang.org/grpc v1.59.0 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
